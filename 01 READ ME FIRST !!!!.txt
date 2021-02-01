@@ -1,0 +1,7 @@
+>> LOGIN DETAILS <<
+
+Username: admin
+Password: 33742527
+
+
+DataBase Name "fantastic_school_admin_db"
